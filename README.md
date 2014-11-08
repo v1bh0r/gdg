@@ -1,5 +1,6 @@
 # GDG Explorer
 [![Build Status](https://travis-ci.org/vibhor86/gdg.svg)](https://travis-ci.org/vibhor86/gdg)
+[![devDependency Status](https://david-dm.org/vibhor86/gdg/dev-status.svg)](https://david-dm.org/vibhor86/gdg#info=devDependencies)
 
 ## Install
 To start your own project, you can clone that project, get rid of the history, change the git origin and start working by following the snippet below
