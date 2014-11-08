@@ -34,6 +34,11 @@ var destinations = {
 var vendoredLibs = [
   'vendor/angular/angular.js',
   'vendor/ui-router/release/angular-ui-router.js',
+  'vendor/angular-aria/angular-aria.js',
+  'vendor/angular-animate/angular-animate.js',
+  'vendor/hammerjs/hammer.js',
+  'vendor/angular-material/angular-material.css',
+  'vendor/angular-material/angular-material.js',
 ];
 
 // Will be filled automatically
